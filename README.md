@@ -1,2 +1,3 @@
-# equilibra
-Projeto A3 focado na ODS 3 Saúde e bem estar.
+# Dev Vitor Hugo Xavier
+
+*RA* *4251924736*
