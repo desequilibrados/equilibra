@@ -1,8 +1,14 @@
-# equilibra
-Projeto A3 focado na ODS 3 Saúde e bem estar.
-<<<<<<< HEAD
-# Integrantes: 
-* Gustavo Michael Alves Pereira - RA: 4251920199 
-* Gustavo Henrique de Oliveira Alves - RA: 4251920903
-=======
->>>>>>> c270f55975290a31b588ccfd5cd041edde9ee69c
+# como rodar
+entra no projeto, abre o terminal
+```
+venv\Scripts\Activate
+```
+após iniciar a venv, rode o uvicorn
+```
+uvicorn src.main:app --reload
+```
+vai abrir um servidor local
+# o que ja tem
+criei um mini banco de usuario/objetivo pra testar a integração com as bibliotecas e fiz a parte da i.a gerar um planejamento alimentar pra pessoa.
+vc preenche o seu objetivo e peso e ele vai gerar um planejamento alimentar de 1 dia focado em qualidade alimentar.
+ta só no SWAGGERUI mas é um começo
